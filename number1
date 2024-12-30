@@ -1,0 +1,9 @@
+public class Numbers{
+  public static void main (String[] args){
+    System.out.println("The First Natural Number are");
+    for int (i=1;i<=10;i++)
+    {
+    system.out.println(i);
+    }
+  }
+  }
